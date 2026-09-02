@@ -1,0 +1,12 @@
+{
+  "name": "Remix صارة v15 - التطور الكوآنتومي الشامل",
+  "description": "النظام السيادي الشامل - الجيل الخامس عشر: تكامل تقني فائق، بنية نانو-كوآنتوم، وخوارزميات التطور الكوني.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
